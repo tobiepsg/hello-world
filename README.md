@@ -1,2 +1,3 @@
 # hello-world
-Checking things out
+Checking things out and making progress
+Yes Yes!
